@@ -74,7 +74,7 @@ function printB(number) {
 // ANSWER: O(n)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n)
+// ANSWER: O(1)
 
 
 
@@ -90,7 +90,7 @@ function printC(num, arr) {
 // ANSWER: O(n^2)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n^1)
+// ANSWER: O(1)
 
 
 // 6) -------------------------------------------------------
@@ -105,7 +105,7 @@ function nested(numbers) {
 // ANSWER: O(n^2)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n^2)
+// ANSWER: O(1)
 
 
 
@@ -146,7 +146,7 @@ function removeNum() {
     numbers.splice(3,1)
 }
 // Q: What is the time complexity of the function?
-// ANSWER: O(1)
+// ANSWER: O(n)
 
 
 // 10) -------------------------------------------------------
@@ -198,7 +198,7 @@ function arrInception(parentArr) {
     }
   }
   // Q: What is the space complexity of this function?
-  // ANSWER: O(n)
+  // ANSWER: O(1)
   
   
 // 14) You are challenged to find the squared value of each number in an array. This is not the best solution, but it is what you come up with anyway...
