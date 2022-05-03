@@ -90,7 +90,7 @@ function printC(num, arr) {
 // ANSWER: O(n^2)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n^2)
+// ANSWER: O(n^1)
 
 
 // 6) -------------------------------------------------------
@@ -146,7 +146,7 @@ function removeNum() {
     numbers.splice(3,1)
 }
 // Q: What is the time complexity of the function?
-// ANSWER: O(n)
+// ANSWER: O(1)
 
 
 // 10) -------------------------------------------------------
